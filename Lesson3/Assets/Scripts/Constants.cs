@@ -1,4 +1,8 @@
-﻿using System;
+﻿//
+// Author: Denis Potapenko
+// http://denis-potapenko.blogspot.com/
+// 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
