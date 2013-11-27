@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿//
+// Author: Denis Potapenko
+// http://denis-potapenko.blogspot.com/
+// 
+using UnityEngine;
 using System.Collections;
 using System.Runtime.InteropServices;
 
